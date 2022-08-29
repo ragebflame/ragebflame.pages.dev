@@ -19,7 +19,7 @@ taxonomies = [
 [markdown]
 # Code highlighting
 highlight_code = true
-highlight_theme = "boron"
+highlight_theme = "dracula"
 
 [extra]
 
