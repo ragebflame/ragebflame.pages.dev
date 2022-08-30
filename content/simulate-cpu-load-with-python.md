@@ -6,12 +6,12 @@ date = 2021-01-15
 tags = ["programming"]
 +++
 
-{{ image(src="/img/python.webp", alt="",
-         position="center", style="border-radius: 8px;") }}
+{{ image(src="/img/python.webp", alt="sss",
+         position="center", style="border-radius: 4px;") }}
 
 While testing out some home automation code on my Raspberry Pi, I noticed it was pretty CPU intensive. Time to bump up the overclock to squeeze more performance out of the Broadcom Arm7 processor. I wanted to keep an eye on temperatures, as well as stability under full load, so I needed to simulate CPU usage.
 
-This Python script will do the job. It uses the multiprocessing library, which you can read more about [here](https://docs.python.org/2/library/multiprocessing.html).
+This Python script will do the job. It uses the multiprocessing library, which you can read more about in the [python documentation](https://docs.python.org/2/library/multiprocessing.html).
 
 ```python
 #!/usr/bin/env python
