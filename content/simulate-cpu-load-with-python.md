@@ -3,7 +3,7 @@ title = "Simulate CPU load with Python"
 date = 2021-01-15
 
 [taxonomies]
-tags = ["programming"]
+tags = ["programming", "python"]
 +++
 
 {{ image(src="/img/python.webp", alt="sss",

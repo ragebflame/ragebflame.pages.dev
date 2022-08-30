@@ -3,7 +3,7 @@ title = "Checking fail2ban jails"
 date = 2021-11-14
 
 [taxonomies]
-tags = ["bash", "sysadmin"]
+tags = ["bash", "sysadmin", "linux"]
 +++
 
 [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) is an excellent tool to help ban unwelcome IPs from hitting your services.
