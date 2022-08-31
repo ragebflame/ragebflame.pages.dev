@@ -3,6 +3,22 @@ title = "Photographs"
 path = "photographs"
 +++
 
+{{ figure(src="/photographs/photo_14.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Serifos, GR ~ 2022",
+          caption_position="center",
+          caption="Serifos, GR ~ 2022",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
+{{ figure(src="/photographs/photo_15.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Emerald Cove, AZ ~ 2022",
+          caption_position="center",
+          caption="Emerald Cove, AZ ~ 2022",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
 {{ figure(src="/photographs/photo_01.webp",
           style="border-radius: 4px;",
           position="center"

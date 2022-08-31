@@ -1,0 +1,3 @@
+# Ignore theme git modules and macros
+**/themes
+**/templates/macros

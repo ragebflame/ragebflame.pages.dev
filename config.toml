@@ -34,7 +34,7 @@ accent_color = "green"
 background_color = "green"
 
 # The logo text - defaults to "Terminimal theme"
-logo_text = "Daniel Flannery"
+logo_text = "~/ Daniel Flannery"
 
 # The logo link - defaults to base_url.
 #logo_home_link = "/take/me/away!"
@@ -56,10 +56,10 @@ menu_items = [
 
     # tags should only be enabled if you have "tags" taxonomy
     # see documentation below for more details
-    {name = "blog", url = "$BASE_URL/blog"},
-    {name = "wishlist", url = "$BASE_URL/wishlist"},
-    {name = "photographs", url = "$BASE_URL/photographs"},
-    {name = "tags", url = "$BASE_URL/tags"},
+    {name = "blog/", url = "$BASE_URL/blog"},
+    {name = "tags/", url = "$BASE_URL/tags"},
+    {name = "photographs/", url = "$BASE_URL/photographs"},
+    {name = "wishlist/", url = "$BASE_URL/wishlist"},
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/ragebflame", newtab = true},
 ]
@@ -84,4 +84,3 @@ use_full_hack_font = false
 #           in your site's "static" directory.
 favicon = "/favicon.svg"
 # favicon_mimetype = "image/png"
-
