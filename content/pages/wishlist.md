@@ -24,6 +24,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 🤖
 
+- [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.de/-/en/gp/product/B08W2C5W59)
 - [Steam Deck 512GB](https://store.steampowered.com/steamdeck)
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
 - [Tile Pro (2022)](https://ie.tile.com/product/686597/pro-1-pack)
