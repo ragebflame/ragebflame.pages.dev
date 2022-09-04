@@ -8,7 +8,7 @@
 #prerequisite    :webp,imagemagick and exiv2 installed
 #==============================================================================
 
-TARGET_PATH="$(cd "$(dirname "$0")" && pwd)/static/photographs/*"
+TARGET_PATH="$(cd "$(dirname "$0")" && pwd)/static/*/*"
 
 for file in $TARGET_PATH; do
 

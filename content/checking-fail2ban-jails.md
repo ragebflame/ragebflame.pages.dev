@@ -6,6 +6,9 @@ date = 2021-11-14
 tags = ["bash", "sysadmin", "linux"]
 +++
 
+{{ image(src="/img/fail2ban_16-9.webp", alt="A firewall preventing rogue ip addresses from entering a secure building. 4k, detailed, trending in artstation, fantasy vivid colors, oil on canvas",
+         position="center", style="border-radius: 4px;") }}
+
 [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) is an excellent tool to help ban unwelcome IPs from hitting your services.
 
 > Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc. Generally Fail2Ban is then used to update firewall rules to reject the IP addresses for a specified amount of time, although any arbitrary other action (e.g. sending an email) could also be configured. Out of the box Fail2Ban comes with filters for various services (apache, courier, ssh, etc).

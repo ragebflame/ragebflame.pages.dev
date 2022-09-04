@@ -6,7 +6,7 @@ date = 2021-01-15
 tags = ["programming", "python"]
 +++
 
-{{ image(src="/img/python.webp", alt="sss",
+{{ image(src="/img/python3_16-9.webp", alt="A snake swimming in a sea of computers overlooked by a beautiful mountain. 4k, detailed, trending in artstation, fantasy vivid colors, by Katsushika Hokusai",
          position="center", style="border-radius: 4px;") }}
 
 While testing out some home automation code on my Raspberry Pi, I noticed it was pretty CPU intensive. Time to bump up the overclock to squeeze more performance out of the Broadcom Arm7 processor. I wanted to keep an eye on temperatures, as well as stability under full load, so I needed to simulate CPU usage.
