@@ -5,19 +5,20 @@ path = "wishlist"
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-💫*Last updated: 04/01/2022*
+💫*Last updated: 06/09/2022*
 
 {{ image(src="/img/wishlist.webp", alt="",
          position="center", style="border-radius: 8px;") }}
 
 ### Books 📚
 
-- [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234/?coliid=I2JCNRSUYCAFFP&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
+- [How to make the best coffee at home](https://www.amazon.co.uk/make-best-coffee-James-Hoffmann/dp/1784727245)
+- [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
 - ~~[The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)~~
 - ~~[Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)~~
 - ~~[The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-- ~~[Dune](https://www.amazon.co.uk/dp/0340960191/?coliid=IWF52FC73H1B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it_im)~~
+- ~~[Dune](https://www.amazon.co.uk/dp/0340960191)~~
 - ~~[Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
 
 ### Tech 👨‍💻
