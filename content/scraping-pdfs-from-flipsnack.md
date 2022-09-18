@@ -17,10 +17,10 @@ This is all well and good, but what if you want to download the content? Here is
 
 I run all of these steps within an Ubuntu [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) environment. What we are going to do:
 
-1. Identify the CDN URL
-2. Download each of the pages as _JPG_ images
+1. Identify the CDN URL.
+2. Download each of the pages as _JPG_ images.
 3. Rename the downloaded files to ensure the PDF output page order is correct.
-4. Convert to PDF
+4. Convert to PDF.
 5. **Bonus:** Make the text selectable within the PDF.
 
 The first thing you'll want to do is grab the URL for the PDF you are looking to download. You can grab this using Dev tools in your browser and having a look at the Sources. The URL will have a structure containing a `UNIQUE_ID` and `HASH_VALUE`. Also notice the `PAGE_NUMBER`. Take note of the last available page as it'll be needed when downloading.
