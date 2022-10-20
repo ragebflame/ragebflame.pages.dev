@@ -13,16 +13,16 @@ Coffee. Sweet black nectar of the gods. Here's how I make it.
 
 ## Equipment
 
-- An Aeropress
-- Aeropress paper filters
-- Hario Slim grinder
+- [An Aeropress](https://aeropress.com/)
+- [Able Brewing DISK Filter](https://ablebrewing.com/products/disk-coffee-filter)
+- [Hario Slim grinder](https://global.hario.com/product/coffee/grinder/MSS.html)
 - Digital scales
 - Spray bottle for water (Not critical)
 - Some good locally roasted coffee ([Some I like](/wishlist/#coffee-))
 
 ## Workflow
 
-Aeropress is set up as standard. Over cup, on a scales with a paper filter.
+Aeropress is set up as standard. Over cup, on a scales with the filter added.
 
 1. Set Hario Slim grinder @ 8 clicks. For grind size, [see below](#grind-sizes-for-hario-slim)
 2. Measure 13g coffee. Spray beans with water before grind to avoid static
