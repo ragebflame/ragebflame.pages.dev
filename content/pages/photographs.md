@@ -3,6 +3,14 @@ title = "Photographs"
 path = "photographs"
 +++
 
+{{ figure(src="/photographs/photo_16.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Connemara, IE ~ 2022",
+          caption_position="center",
+          caption="Connemara, IE ~ 2022",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
 {{ figure(src="/photographs/photo_14.webp",
           style="border-radius: 4px;",
           position="center"
@@ -46,41 +54,41 @@ path = "photographs"
 {{ figure(src="/photographs/photo_03.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Ballycorus Flue Chimney ~ 2021",
+          alt="Ballycorus Flue Chimney, IE ~ 2021",
           caption_position="center",
-          caption="Ballycorus Flue Chimney ~ 2021",
+          caption="Ballycorus Flue Chimney, IE ~ 2021",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_04.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="MV Plassy, Inisheer ~ 2021",
+          alt="MV Plassy, Inisheer, IE ~ 2021",
           caption_position="center",
-          caption="MV Plassy, Inisheer ~ 2021",
+          caption="MV Plassy, Inisheer, IE ~ 2021",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_05.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Bray Head ~ 2021",
+          alt="Bray Head, IE ~ 2021",
           caption_position="center",
-          caption="Bray Head ~ 2021",
+          caption="Bray Head, IE ~ 2021",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_06.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Poolbeg Lighthouse ~ 2020",
+          alt="Poolbeg Lighthouse, IE ~ 2020",
           caption_position="center",
-          caption="Poolbeg Lighthouse ~ 2020",
+          caption="Poolbeg Lighthouse, IE ~ 2020",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_07.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Scattery Island ~ 2020",
+          alt="Scattery Island, IE ~ 2020",
           caption_position="center",
-          caption="Scattery Island ~ 2020",
+          caption="Scattery Island, IE ~ 2020",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_13.webp",
@@ -94,31 +102,31 @@ path = "photographs"
 {{ figure(src="/photographs/photo_12.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Slieve Bloom Mountains ~ 2019",
+          alt="Slieve Bloom Mountains, IE ~ 2019",
           caption_position="center",
-          caption="Slieve Bloom Mountains ~ 2019",
+          caption="Slieve Bloom Mountains, IE ~ 2019",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_08.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Shannonbridge ~ 2019",
+          alt="Shannonbridge, IE ~ 2019",
           caption_position="center",
-          caption="Shannonbridge ~ 2019",
+          caption="Shannonbridge, IE ~ 2019",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_10.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Alcatraz Island ~ 2018",
+          alt="Alcatraz Island, CA ~ 2018",
           caption_position="center",
-          caption="Alcatraz Island ~ 2018",
+          caption="Alcatraz Island, CA ~ 2018",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
 {{ figure(src="/photographs/photo_11.webp",
           style="border-radius: 4px;",
           position="center"
-          alt="Madrid ~ 2018",
+          alt="Madrid, ES ~ 2018",
           caption_position="center",
-          caption="Madrid ~ 2018",
+          caption="Madrid, ES ~ 2018",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
