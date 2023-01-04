@@ -82,6 +82,17 @@ a {
   color: inherit;
 }
 
+/* Strikethrough */
+del {
+  color: var(--strikethrough-color);
+}
+
+/* Highlight */
+mark {
+  background-color: var(--background);
+  color: var(--highlight);
+}
+
 img {
   display: block;
   max-width: 100%;

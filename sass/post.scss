@@ -97,6 +97,10 @@
       color: var(--accent);
     }
   }
+
+  ol li::marker {
+    color: var(--accent);
+  }
 }
 
 .post--regulation {

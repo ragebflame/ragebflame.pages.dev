@@ -12,32 +12,32 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ### Books 📚
 
-- [How to make the best coffee at home](https://www.amazon.co.uk/make-best-coffee-James-Hoffmann/dp/1784727245)
 - [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
-- ~~[The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)~~
-- ~~[Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)~~
-- ~~[The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-- ~~[Dune](https://www.amazon.co.uk/dp/0340960191)~~
-- ~~[Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
+- ~~✅ [How to make the best coffee at home](https://www.amazon.co.uk/make-best-coffee-James-Hoffmann/dp/1784727245)~~
+- ~~✅ [The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)~~
+- ~~✅ [Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)~~
+- ~~✅ [The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+- ~~✅ [Dune](https://www.amazon.co.uk/dp/0340960191)~~
+- ~~✅ [Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
 
 ### Tech 👨‍💻
 
 🤖
 
-- [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.de/-/en/gp/product/B08W2C5W59)
 - [Steam Deck 512GB](https://store.steampowered.com/steamdeck)
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
 - [Tile Pro (2022)](https://ie.tile.com/product/686597/pro-1-pack)
 - [Raspberry Pi 4 - 8GB](https://ie.farnell.com/raspberry-pi/rpi4-modbp-8gb/raspberry-pi-4-model-b-cortex/dp/3369503)
-- ~~[ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-- ~~[iFixit Pro Tech Toolkit](https://eustore.ifixit.com/products/pro-tech-toolkit)~~
+- ~~✅ [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.de/-/en/gp/product/B08W2C5W59)~~
+- ~~✅ [ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+- ~~✅ [iFixit Pro Tech Toolkit](https://eustore.ifixit.com/products/pro-tech-toolkit)~~
 
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
 
 - Mice
-  - ~~[Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-00527- html)~~
   - [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
+  - ~~✅ [Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-00527-html)~~
 - Keyboards
   - [Keychron Q1 QMK - Knob Version - Navey Blue - Gateron G Pro Brown switches](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-knob-version?variant=39610589872217)
 - Mousepads
@@ -71,9 +71,9 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
   - [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
   - [Universal Audio Apollo](https://www.uaudio.com/audio-interfaces/apollo-twin-x.html)
 - Headphones
-  - ~~[Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
+  - ~~✅ [Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
 - Earphones
-  - ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - ~~✅ [Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
 ##### Instruments / Pedals / Amps 🎸🎹
 
@@ -99,10 +99,10 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
   - [Velo Coffee (Cork)](https://velocoffee.ie/)
   - [Anam Coffee (Clare)](https://www.anamcoffee.ie/product-category/coffee/)
 - Tech
-  - [1Zpresso Q2 hand Coffee grinder](https://www.coffeeshop.ie/coffee-equipment%20/grinders?product_id=542&sort=p.price&order=ASC)
   - [Ember Mug²](https://eu.ember.com/products/ember-mug-2?variant=41481408512152)
-  - ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - ~~[Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - ~~✅ [1Zpresso Q2 hand Coffee grinder](https://1zpresso.coffee/product/q2/)~~
+  - ~~✅ [AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - ~~✅ [Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
 ### Whiskey 🥃
 
