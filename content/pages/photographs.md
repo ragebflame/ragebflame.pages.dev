@@ -3,6 +3,14 @@ title = "Photographs"
 path = "photographs"
 +++
 
+{{ figure(src="/photographs/photo_17.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="London, UK ~ 2022",
+          caption_position="center",
+          caption="London, UK ~ 2022",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
 {{ figure(src="/photographs/photo_16.webp",
           style="border-radius: 4px;",
           position="center"
