@@ -5,7 +5,7 @@ path = "wishlist"
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-💫*Last updated: 31/10/2022*
+💫*Last updated: 04/01/2023*
 
 {{ image(src="/img/wishlist.webp", alt="",
          position="center", style="border-radius: 8px;") }}
@@ -100,7 +100,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
   - [Anam Coffee (Clare)](https://www.anamcoffee.ie/product-category/coffee/)
 - Tech
   - [Ember Mug²](https://eu.ember.com/products/ember-mug-2?variant=41481408512152)
-  - ~~✅ [1Zpresso Q2 hand Coffee grinder](https://1zpresso.coffee/product/q2/)~~
+  - ~~✅ [1Zpresso Q2 coffee grinder](https://1zpresso.coffee/product/q2/)~~
   - ~~✅ [AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
   - ~~✅ [Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 

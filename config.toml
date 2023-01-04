@@ -59,7 +59,7 @@ author = "Daniel Flannery"
 
 # Copyright text in HTML format. If specified,
 # entirely replaces default copyright and author.
-copyright_html = "- - - コンピュータープログラミング - - -<br/>© 2022 | Daniel Flannery"
+copyright_html = "- - - コンピュータープログラミング - - -<br/>© 2023 | Daniel Flannery"
 
 # menu is enabled by adding menu_items (optional)
 menu_items = [
