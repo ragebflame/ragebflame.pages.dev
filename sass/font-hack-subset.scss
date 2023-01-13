@@ -4,6 +4,15 @@
  */
 /* FONT PATHS
  * -------------------------- */
+
+/* Adding Recursive font (https://www.recursive.design/) */
+@font-face {
+  font-family: "RecVar";
+  src: url("fonts/RecVar1085.woff2") format("woff2");
+  font-style: oblique 0deg 15deg;
+  font-weight: 300 1000;
+}
+
 @font-face {
   font-family: "Hack";
   /* Use full version (not a subset) for unicode icon support */

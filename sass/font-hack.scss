@@ -4,6 +4,14 @@
  */
 /* FONT PATHS
  * -------------------------- */
+
+@font-face {
+  font-family: "RecVar";
+  src: url("fonts/RecVar1085.woff2") format("woff2");
+  font-style: oblique 0deg 15deg;
+  font-weight: 300 1000;
+}
+
 @font-face {
   font-family: "Hack";
   src: url("fonts/hack-regular.woff2?sha=3114f1256") format("woff2"),

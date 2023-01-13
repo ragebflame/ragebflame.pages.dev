@@ -13,7 +13,9 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: Hack, DejaVu Sans Mono, Monaco, Consolas, Ubuntu Mono, monospace;
+  font-family: RecVar, Hack, system-ui, sans-serif;
+  font-weight: 390;
+  font-feature-settings: "liga", "kern";
   font-size: 1rem;
   line-height: 1.54;
   background-color: var(--background);
