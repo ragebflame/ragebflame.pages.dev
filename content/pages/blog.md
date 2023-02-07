@@ -1,5 +1,5 @@
 +++
+title = "Blog posts"
 path = "blog"
 template = "blog.html"
-title = "blog posts"
 +++

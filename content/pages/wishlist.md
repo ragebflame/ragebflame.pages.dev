@@ -1,5 +1,5 @@
 +++
-title = "wishlist"
+title = "Wishlist"
 path = "wishlist"
 +++
 
