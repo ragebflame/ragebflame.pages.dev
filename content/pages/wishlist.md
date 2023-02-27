@@ -73,7 +73,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - Headphones
   - ~~✅ [Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
 - Earphones
-  - ~~✅ [Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - ~~✅ [Samsung Galaxy Buds+](https://www.rtings.com/headphones/reviews/samsung/galaxy-buds-plus-truly-wireless)~~
 
 ##### Instruments / Pedals / Amps 🎸🎹
 
@@ -106,7 +106,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ### Whiskey 🥃
 
-- [Nikka From The Barrel](https://www.celticwhiskeyshop.com/nikka-from-the-barrel)
+- [Nikka From The Barrel](https://www.nikka.com/eng/brands/fromthebarrel/)
 - [Green Spot](https://www.spotwhiskey.com/en/whiskeys/greenspot)
 - [Yellow Spot](https://www.spotwhiskey.com/en/whiskeys/yellowspot)
 - [Redbreast Single Pot](https://www.redbreastwhiskey.com/en-EN/)
