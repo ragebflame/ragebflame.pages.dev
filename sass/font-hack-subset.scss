@@ -5,6 +5,58 @@
 /* FONT PATHS
  * -------------------------- */
 
+/* This file is in use when 'use_full_hack_font = false' in config.toml*/
+
+/* Adding Config Rounded font (https://en.bestfonts.pro/font/config-rounded) */
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedRegular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedBold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedBoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedLight.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedLightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedMedium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Config Rounded";
+  src: url("fonts/ConfigRoundedSemibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
 /* Adding Recursive font (https://www.recursive.design/) */
 @font-face {
   font-family: "RecVar";

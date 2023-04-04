@@ -13,11 +13,11 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: RecVar, Hack, system-ui, sans-serif;
-  font-weight: 390;
+  font-family: 'Config Rounded', Hack, system-ui, sans-serif;
+  font-weight: 400;
   font-feature-settings: "liga", "kern";
-  font-size: 1rem;
-  line-height: 1.54;
+  font-size: 1.08rem;
+  line-height: 1.50;
   background-color: var(--background);
   color: var(--color);
   text-rendering: optimizeLegibility;
@@ -26,7 +26,7 @@ body {
   -webkit-text-size-adjust: 100%;
 
   @media (max-width: $phone-max-width) {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 }
 
@@ -63,7 +63,7 @@ h6 {
 }
 
 h1 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
 }
 
 h2 {
