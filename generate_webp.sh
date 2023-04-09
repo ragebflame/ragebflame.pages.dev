@@ -13,16 +13,16 @@ TARGET_PATH="$(cd "$(dirname "$0")" && pwd)/static/*/*"
 for file in $TARGET_PATH; do
 
     DUP_CHECK=$(readlink -f "$file" | sed 's/\.[^.]*$//')
-    IMAGE_SIZE=$(identify -format '%w' "$file")
 
-    # Strip EXIF data from still images first
-    if [[ $file != *.gif ]] || [[ $file != *.webp ]]; then
+    # Strip EXIF data from still images first, read image size
+    if [[ $file == *.jpg ]] || [[ $file == *.jpeg ]] || [[ $file == *.png ]] || [[ $file == *.tiff ]] || [[ $file == *.gif ]]; then
+        IMAGE_SIZE=$(identify -format '%w' "$file")
         echo "Stripping EXIF from $(basename "$file")..."
         exiv2 rm "$file"
     fi
 
-    # Skip webps
-    if [[ $file == *.webp ]]; then
+    # Skip webps, fonts, etc
+    if [[ $file == *.webp ]] || [[ $file == *.woff ]] || [[ $file == *.woff2 ]]; then
         continue
     # Check to see if a WEBP of the same name already exists
     elif [[ -f "$DUP_CHECK.webp" ]]; then

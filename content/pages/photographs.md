@@ -3,6 +3,14 @@ title = "Photographs"
 path = "photographs"
 +++
 
+{{ figure(src="/photographs/photo_18.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Battersea power station, UK ~ 2023",
+          caption_position="center",
+          caption="Battersea power station, UK ~ 2023",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
 {{ figure(src="/photographs/photo_17.webp",
           style="border-radius: 4px;",
           position="center"
