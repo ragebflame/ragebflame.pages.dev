@@ -44,6 +44,6 @@ for file in $TARGET_PATH; do
         echo "Converting .//static/photographs/$(basename "${file}") --> webp"
         cwebp -q 100 "$(echo "$file" | sed -e 's/\*/ /g' -e 's/^"//' -e 's/"$//')" \
             -o "$(echo "$file" | sed -e 's/\*/ /g' -e 's/^"//' | sed 's/.[^.]*$//').webp" \
-            $RESIZE -mt -quiet
+            "$RESIZE" -mt -quiet
     fi
 done
