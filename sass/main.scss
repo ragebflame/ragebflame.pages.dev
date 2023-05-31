@@ -13,11 +13,11 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Config Rounded', Hack, system-ui, sans-serif;
+  font-family: "Config Rounded", Hack, system-ui, sans-serif;
   font-weight: 400;
   font-feature-settings: "liga", "kern";
   font-size: 1.08rem;
-  line-height: 1.50;
+  line-height: 1.5;
   background-color: var(--background);
   color: var(--color);
   text-rendering: optimizeLegibility;
@@ -98,6 +98,7 @@ mark {
 img {
   display: block;
   max-width: 100%;
+  border-radius: 4px;
 
   &.left {
     margin-right: auto;
