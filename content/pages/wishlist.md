@@ -7,7 +7,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 💫*Last updated: 04/01/2023*
 
-{{ image(src="/img/wishlist.webp", alt="",
+{{ image(src="img/wishlist.webp", alt="",
          position="center", style="border-radius: 8px;") }}
 
 ### Books 📚

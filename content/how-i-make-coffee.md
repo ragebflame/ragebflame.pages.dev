@@ -6,8 +6,7 @@ date = 2022-06-05
 tags = ["coffee", "recipes"]
 +++
 
-{{ image(src="/img/ai-coffee.webp", alt="a freshly brewed cup of coffee made by a robot in a futuristic cafe. cyberpunk.",
-         position="center", style="border-radius: 4px;") }}
+{{ image(src="/img/ai-coffee.webp", alt="a freshly brewed cup of coffee made by a robot in a futuristic cafe. cyberpunk.", position="center", style="border-radius: 4px;") }}
 
 Coffee. Sweet black nectar of the gods. Here's how I make it.
 
