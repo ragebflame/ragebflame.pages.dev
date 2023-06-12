@@ -17,7 +17,7 @@ Linux version 3.18.7+ (dc4@dc4-XPS13-9333) (gcc version 4.8.3 20140303 (prerelea
 
 If the version is **3.18.5** or later, then you need to add the following to `/boot/config.txt`
 
-```text
+```txt
 dtoverlay=w1-gpio
 ```
 

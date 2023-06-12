@@ -25,7 +25,7 @@ I run all of these steps within an Ubuntu [WSL](https://learn.microsoft.com/en-u
 
 The first thing you'll want to do is grab the URL for the PDF you are looking to download. You can grab this using Dev tools in your browser and having a look at the Sources. The URL will have a structure containing a `UNIQUE_ID` and `HASH_VALUE`. Also notice the `PAGE_NUMBER`. Take note of the last available page as it'll be needed when downloading.
 
-```text
+```txt
 https://cdn.flipsnack.com/collections/items/<UNIQUE_ID>/covers/page_<PAGE_NUMBER>/original?v=<HASH_VALUE>
 ```
 
@@ -47,7 +47,7 @@ curl https://cdn.flipsnack.com/collections/items/<UNIQUE_ID>/covers/page_\[1-162
 
 Once finished, you should now have a directory full of images, each of which is a page of the PDF.
 
-```text
+```txt
 ├── 10.jpg
 ├── 11.jpg
 ├── 12.jpg
@@ -73,7 +73,7 @@ rename 's/\d+/sprintf("%03d",$&)/e' *.jpg
 
 That's better.
 
-```text
+```txt
 ├── 001.jpg
 ├── 002.jpg
 ├── 003.jpg

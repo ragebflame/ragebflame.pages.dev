@@ -27,7 +27,7 @@ done
 
 Output:
 
-```text
+```txt
 root@pihole:~ λ ./fail2banstatus.sh
 
 Status for the jail: sshd

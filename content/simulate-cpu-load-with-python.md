@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
 This will utilize each CPU core and produce ~100% load with the while loops calculation.
 
-```text
+```txt
 --------------------
 Running load on CPU(s)
 Utilizing 8 cores
