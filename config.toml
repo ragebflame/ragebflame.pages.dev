@@ -40,6 +40,9 @@ external_links_no_referrer = true
 # Defaults to blue.
 accent_color = "green"
 
+# Language
+default_language = "en"
+
 # https://github.com/getzola/even/pull/48/files#diff-28043ff911f28a5cb5742f7638363546311225a63eabc365af5356c70d4deb77
 images_default_size = 784
 images_sizes = [200, 392, 784]
