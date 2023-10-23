@@ -3,6 +3,14 @@ title = "Photographs"
 path = "photographs"
 +++
 
+{{ figure(src="/photographs/photo_19.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Fernhill house, IE ~ 2023",
+          caption_position="center",
+          caption="Fernhill house, IE ~ 2023",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
 {{ figure(src="/photographs/photo_18.webp",
           style="border-radius: 4px;",
           position="center"
@@ -145,4 +153,12 @@ path = "photographs"
           alt="Madrid, ES ~ 2018",
           caption_position="center",
           caption="Madrid, ES ~ 2018",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
+{{ figure(src="/photographs/photo_20.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Eisenbahn Hydroelectrica Aguas Calentes, PE ~ 2017",
+          caption_position="center",
+          caption="Eisenbahn Hydroelectrica Aguas Calentes, PE ~ 2017",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}

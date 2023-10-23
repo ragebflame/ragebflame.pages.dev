@@ -50,7 +50,7 @@ for file in $TARGET_PATH; do
         echo "${RESIZE}"
         echo "${FILE_PATH}.webp"
         echo "++++++"
-        cwebp -q 100 "${file}" -o "${FILE_PATH}.webp" "${RESIZE}" -mt -quiet
+        cwebp -q 100 "${file} -o ${FILE_PATH}.webp ${RESIZE} -mt -quiet"
         echo "Cleaning up original file: ${file}"
         rm "${file}"
     fi
