@@ -123,6 +123,14 @@ path = "photographs"
           caption="Spyscape, NY ~ 2019",
           caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
 
+{{ figure(src="/photographs/photo_21.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Kamares, Greece, GR ~ 2019",
+          caption_position="center",
+          caption="Kamares, Greece, GR ~ 2019",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
 {{ figure(src="/photographs/photo_12.webp",
           style="border-radius: 4px;",
           position="center"
