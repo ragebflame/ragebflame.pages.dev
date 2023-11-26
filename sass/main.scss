@@ -278,6 +278,7 @@ ol {
 
   li {
     position: relative;
+    vertical-align: middle;
   }
 
   @media (max-width: $phone-max-width) {
@@ -287,6 +288,11 @@ ol {
 
 ol ol {
   list-style-type: lower-alpha;
+}
+
+.list-img {
+  display: inline;
+  vertical-align: middle;
 }
 
 .container {
