@@ -5,7 +5,7 @@ path = "wishlist"
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-💫*Last updated: 04/01/2023*
+💫*Last updated: 29/02/2024*
 
 {{ gif(src="/img/wishlist.webp", alt="", position="center") }}
 
@@ -24,7 +24,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 🤖
 
-- [Steam Deck 512GB](https://store.steampowered.com/steamdeck)
+- [Steam Deck OLED 512GB](https://store.steampowered.com/steamdeck)
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
 - [Tile Pro (2022)](https://ie.tile.com/product/686597/pro-1-pack)
 - ~~✅ [Raspberry Pi 4 - 8GB](https://thepihut.com/products/raspberry-pi-4-model-b?src=raspberrypi&variant=31994565689406)~~
@@ -46,9 +46,9 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ##### Compute 💻🎮
 
 - GPUs
-  - [Nvidia GeForce RTX 3080 Strix](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3080-o10g-gaming-model/)
+  - [Nvidia GeForce RTX 4080 Super Strix](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx4080s-o16g-gaming/)
 - 1440p Monitors
-  - [LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)
+  - [LG UltraGear 27GL850-B](https://www.lg.com/us/monitors/lg-27gl850-b-gaming-monitor)
 
 ##### Smart Home 🏠
 
