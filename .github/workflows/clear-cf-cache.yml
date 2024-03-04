@@ -5,7 +5,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # Put steps here to build your site, deploy it to a service, etc.
+      # Wait until the Cloudflare pages Github app completes
+      # TODO: Improve this
+      - name: Sleep for 30 seconds
+        run: sleep 30s
+        shell: bash
 
       - name: Purge cache
         uses: jakejarvis/cloudflare-purge-action@master
