@@ -135,6 +135,13 @@ img {
   }
 }
 
+.center-text {
+  text-align: center;
+  font-size: 1.8rem;
+  opacity: 0.5;
+  color: var(--light-color-secondary);
+}
+
 p {
   margin-bottom: 20px;
 }
