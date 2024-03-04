@@ -126,13 +126,20 @@ img {
   img {
     border-radius: 50%;
     margin: 12px 0;
-    border: 6px solid var(--accent);
+    border: 4px solid var(--accent);
     display: block;
     width: 100%;
     max-width: 256px; /*actual image width*/
     height: auto; /* maintain aspect ratio*/
     margin: auto; /*optional centering of image*/
   }
+}
+
+.center-text {
+  text-align: center;
+  font-size: 1.8rem;
+  opacity: 0.5;
+  color: var(--light-color-secondary);
 }
 
 p {
