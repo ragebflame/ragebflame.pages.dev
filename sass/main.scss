@@ -30,6 +30,13 @@ body {
   }
 }
 
+.center-text {
+  text-align: center;
+  font-size: 1.8rem;
+  opacity: 0.5;
+  color: var(--light-color-secondary);
+}
+
 h1,
 h2,
 h3,
@@ -133,13 +140,6 @@ img {
     height: auto; /* maintain aspect ratio*/
     margin: auto; /*optional centering of image*/
   }
-}
-
-.center-text {
-  text-align: center;
-  font-size: 1.8rem;
-  opacity: 0.5;
-  color: var(--light-color-secondary);
 }
 
 p {
