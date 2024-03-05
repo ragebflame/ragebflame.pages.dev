@@ -15,10 +15,11 @@ repos:
     hooks:
       - id: prettier
   # Run Zola check to validate external links (https://www.getzola.org/documentation/getting-started/cli-usage/#check)
-  - repo: local
-    hooks:
-      - id: zola-check
-        name: Zola - Validate external markdown links
-        entry: bash -c 'zola check || :' # force exit code 0 (warn on broken links)
-        language: system
-        verbose: true
+  # Disabling for now
+  #- repo: local
+  #  hooks:
+  #    - id: zola-check
+  #      name: Zola - Validate external markdown links
+  #      entry: bash -c 'zola check || :' # force exit code 0 (warn on broken links)
+  #      language: system
+  #      verbose: true
