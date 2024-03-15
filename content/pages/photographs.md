@@ -73,6 +73,16 @@ path = "photographs"
 
 <p style="text-align:center; font-size: 1.2rem; opacity: 0.5;"> ❦ </p>
 
+{{ figure(src="/photographs/photo_24.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Dublin, IE ~ 2022",
+          caption_position="center",
+          caption="Dublin, IE ~ 2022",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
+<p style="text-align:center; font-size: 1.2rem; opacity: 0.5;"> ❦ </p>
+
 {{ figure(src="/photographs/photo_15.webp",
           style="border-radius: 4px;",
           position="center"
