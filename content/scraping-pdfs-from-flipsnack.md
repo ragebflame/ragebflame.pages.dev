@@ -6,7 +6,7 @@ date = 2022-09-19
 tags = ["bash", "linux", "python"]
 +++
 
-{{ image(src="/img/computer1_16-9.webp", alt="A computer in the jungle, trending in artstation, fantasy vivid colors",
+{{ image(src="/img/computers/office.webp", alt="An impressionist landscape of a computer in an office cubicle surrounded by stacks of paper, abandoned, interior.",
          position="center", style="border-radius: 4px;") }}
 
 [Flipsnack](https://www.flipsnack.com/) is a service which allows you to upload PDFs and serve them as a flip book widget.
