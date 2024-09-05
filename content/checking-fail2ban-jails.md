@@ -6,7 +6,7 @@ date = 2021-11-14
 tags = ["bash", "sysadmin", "linux"]
 +++
 
-{{ image(src="/img/fail2ban_16-9.webp", alt="A firewall preventing rogue ip addresses from entering a secure building. 4k, detailed, trending in artstation, fantasy vivid colors, oil on canvas",
+{{ image(src="/img/fail2ban/firewall.webp", alt="A firewall preventing rogue ip addresses from entering a secure building. 4k, detailed, trending in artstation, fantasy vivid colors, oil on canvas",
          position="center", style="border-radius: 4px;") }}
 
 [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) is an excellent tool to help ban unwelcome IPs from hitting your services.

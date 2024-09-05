@@ -3,6 +3,16 @@ title = "Photographs"
 path = "photographs"
 +++
 
+{{ figure(src="/photographs/photo_25.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Kilkee, IE ~ 2024",
+          caption_position="center",
+          caption="Kilkee, IE ~ 2024",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
+<p style="text-align:center; font-size: 1.2rem; opacity: 0.5;"> ❦ </p>
+
 {{ figure(src="/photographs/photo_23.webp",
           style="border-radius: 4px;",
           position="center"

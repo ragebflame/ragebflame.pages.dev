@@ -6,7 +6,7 @@ date = 2022-06-05
 tags = ["coffee", "recipes"]
 +++
 
-{{ image(src="/img/ai-coffee.webp", alt="a freshly brewed cup of coffee made by a robot in a futuristic cafe. cyberpunk.", position="center", style="border-radius: 4px;") }}
+{{ image(src="/img/coffee/4.webp", alt="An impressionist landscape of a cup of coffee, AeroPress, coffee beans, coffee grinder, and coffee brewing equipment in a café in Ireland.", position="center", style="border-radius: 4px;") }}
 
 Coffee. Sweet black nectar of the gods. Here's how I make it.
 
@@ -50,7 +50,7 @@ The [Hario Slim](https://www.hario.co.uk/products/hario-mini-mill-slim-hand-coff
 | Moka pot           | 9 clicks                              |
 | Chemex             | 9 clicks                              |
 
-{{ image(src="/img/coffee-grind-settings-for-hario-mini-mill.webp", alt="Grind sizes",
+{{ image(src="/img/coffee/coffee-grind-settings-for-hario-mini-mill.webp", alt="Grind sizes",
          position="center", style="border-radius: 4px;") }}
 
 This is taken from a good guide [here](https://howchoo.com/coffee/how-to-adjust-your-hario-mini-mill-coffee-grinder).
