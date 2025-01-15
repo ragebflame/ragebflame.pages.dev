@@ -87,6 +87,8 @@ h6 {
 
 a {
   color: inherit;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--accent-alpha-70);
 }
 
 /* Strikethrough */
