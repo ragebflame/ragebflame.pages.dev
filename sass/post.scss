@@ -13,6 +13,7 @@
 
   @media (max-width: $tablet-max-width) {
     max-width: 660px;
+    min-height: 440px;
   }
 
   &:not(:last-of-type) {
