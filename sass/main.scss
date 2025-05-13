@@ -104,8 +104,8 @@ mark {
 
 img {
   display: block;
-  height: auto;
   width: 100%;
+  height: auto;
   max-width: 100%;
   border-radius: 4px;
 
@@ -195,6 +195,13 @@ figure {
       text-align: right;
     }
   }
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: attr(width) / attr(height); // Fallback for browsers that support it
 }
 
 code {
