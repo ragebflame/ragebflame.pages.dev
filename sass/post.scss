@@ -139,3 +139,10 @@
     text-decoration: underline;
   }
 }
+
+.post-content{
+  /* Set images in posts to the full width of the body */
+  img {
+    width: 100%;
+  }
+}

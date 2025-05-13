@@ -1,23 +1,15 @@
 {% if src %}
 <img
   src="{{ src | safe }}"
-  {%
-  if
-  alt
-  %}
-  alt="{{ alt }}"
-  {%
-  endif
-  %}
-  class="{% if position %}{{ position }}{% else -%} center {%- endif %}"
-  {%-
-  if
-  style
-  %}
-  style="{{ style | safe }}"
-  {%-
-  endif
-  %}
+  {% if alt %}
+    alt="{{ alt }}"
+  {% endif %}
+  class="gif {% if position %}{{ position }}{% else %}center{% endif %}"
+  {% if style %}
+    style="{{ style | safe }}; aspect-ratio: 480/272;"
+  {% else %}
+    style="aspect-ratio: 480/272;"
+  {% endif %}
   width="480"
   height="272"
 />
