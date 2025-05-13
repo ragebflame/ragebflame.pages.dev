@@ -5,7 +5,7 @@ path = "wishlist"
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-💫*Last updated: 29/02/2024*
+📅 *Last updated: 14/05/2025*
 
 {{ gif(src="/img/wishlist.webp", alt="", position="center") }}
 
@@ -21,8 +21,6 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - ~~✅ [Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
 
 ### Tech 👨‍💻
-
-🤖
 
 - [Steam Deck OLED 512GB](https://store.steampowered.com/steamdeck)
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
@@ -58,7 +56,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ##### TVs 📺
 
-- 65" or 55"
+- 55"
   - [OLED - LG C1](https://www.rtings.com/tv/reviews/lg/c1-oled)
   - [QLED - Samsung QN90A](https://www.rtings.com/tv/reviews/samsung/qn90a-qled)
 
@@ -92,13 +90,13 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ### Coffee ☕
 
 - Beans
-  - [3fe Coffee (Dublin)](https://3fe.com/)
-  - [Cloud Picker Coffee (Dublin)](https://cloudpickercoffee.ie/)
+  - [3fe Coffee (Dublin, Ireland)](https://3fe.com/)
+  - [Cloud Picker Coffee (Dublin, Ireland)](https://cloudpickercoffee.ie/)
   - [Ocaso Coffee (Salento, Colombia)](https://www.ocasocoffee.com/web/fresh-coffee/)
-  - [Velo Coffee (Cork)](https://velocoffee.ie/)
-  - [Anam Coffee (Clare)](https://www.anamcoffee.ie/product-category/coffee/)
+  - [Velo Coffee (Cork, Ireland)](https://velocoffee.ie/)
+  - [Anam Coffee (Clare, Ireland)](https://www.anamcoffee.ie/product-category/coffee/)
 - Tech
-  - [Ember Mug²](https://eu.ember.com/products/ember-mug-2?variant=41481408512152)
+  - ~~✅ [Ember Mug²](https://eu.ember.com/products/ember-mug-2?variant=41481408512152)~~
   - ~~✅ [1Zpresso Q2 coffee grinder](https://1zpresso.coffee/product/q2/)~~
   - ~~✅ [AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
   - ~~✅ [Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
