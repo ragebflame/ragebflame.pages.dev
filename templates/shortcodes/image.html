@@ -7,4 +7,4 @@ set_global srcset_list = srcset_list | concat(with=[element]) %} {% endif %} {%
 endfor %} {% set default_resized = resize_image(path=abspath,
 width=config.extra.images_default_size, op="fit_width", format="webp",
 quality=90) %} <img alt="{{ alt }}" src="{{ default_resized.url | safe }}"
-srcset="{{ srcset_list | join(sep=" , ") | safe }}" />
+srcset="{{ srcset_list | join(sep=", ") | safe }}" />

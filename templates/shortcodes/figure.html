@@ -9,7 +9,7 @@
   %} {% endfor %} {% set default_resized = resize_image(path=abspath,
   width=config.extra.images_default_size, op="fit_width", format="webp",
   quality=90) %} <img alt="{{ alt }}" src="{{ default_resized.url | safe }}"
-  srcset="{{ srcset_list | join(sep=" , ") | safe }}" /> {% if caption %}
+  srcset="{{ srcset_list | join(sep=", ") | safe }}" /> {% if caption %}
   <figcaption
     class="{% if caption_position %}{{ caption_position }}{% else -%} center {%- endif %}"
     {%

@@ -104,8 +104,9 @@ mark {
 
 img {
   display: block;
-  max-width: 100%;
   height: auto;
+  width: 100%;
+  max-width: 100%;
   border-radius: 4px;
 
   &.left {
@@ -151,6 +152,8 @@ p {
 
 figure {
   display: table;
+  height: auto;
+  width: 100%;
   max-width: 100%;
   margin: 25px 0;
 
