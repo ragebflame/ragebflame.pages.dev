@@ -4,205 +4,107 @@ head_macros -%} {% import "macros/menu.html" as menu_macros -%} {% import
 title_macros -%}
 
 <!DOCTYPE html>
-<html
-  lang="{%- if config.default_language -%}{{ config.default_language }}{%- else -%}en{%- endif -%}"
->
-  <head>
-    <title>{%- block title %}{{ config.title }}{% endblock title -%}</title>
-    {{ head_macros::head(config=config) }} {%- if config.generate_rss %} <link
-    rel="alternate" type="application/rss+xml" title="RSS" href="{{
+<html lang="{%- if config.default_language -%}{{ config.default_language }}{%- else -%}en{%- endif -%}">
+
+<head>
+  <title>{%- block title %}{{ config.title }}{% endblock title -%}</title>
+  {{ head_macros::head(config=config) }} {%- if config.generate_rss %}
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{
     get_url(path=" rss.xml") | safe }}"> {% endif -%} {%- if
-    config.extra.favicon %} <link rel="shortcut icon" type="{{
+  config.extra.favicon %}
+  <link rel="shortcut icon" type="{{
     config.extra.favicon_mimetype | default(value=" image/x-icon") }}" href="{{
     config.extra.favicon | safe }}"> {% endif -%} {%- block extra_head %} {%
-    endblock extra_head -%}
-  </head>
+  endblock extra_head -%}
+</head>
 
-  <body class="">
-    <div class="container">
-      {% block header %}
-      <header class="header">
-        <div class="header__inner">
-          <div class="header__logo">
-            {%- if config.logo_home_link %} {% set logo_link =
-            config.logo_home_link %} {% else %} {% set logo_link =
-            config.base_url %} {% endif -%}
-            <a href="{{ logo_link | safe }}" style="text-decoration: none">
-              <div class="logo">
-                {% block logo_content %} {%- if config.extra.logo_text %} {{
-                config.extra.logo_text }} {% else %} Terminimal theme {% endif
-                -%} {% endblock logo_content %}
-                <span class="console_blink">_</span>
-              </div>
-            </a>
-          </div>
+<body class="">
+  <div class="container">
+    {% block header %}
+    <header class="header">
+      <div class="header__inner">
+        <div class="header__logo">
+          {%- if config.logo_home_link %} {% set logo_link =
+          config.logo_home_link %} {% else %} {% set logo_link =
+          config.base_url %} {% endif -%}
+          <a href="{{ logo_link | safe }}" style="text-decoration: none">
+            <div class="logo">
+              {% block logo_content %} {%- if config.extra.logo_text %} {{
+              config.extra.logo_text }} {% else %} Terminimal theme {% endif
+              -%} {% endblock logo_content %}
+              <span class="console_blink">_</span>
+            </div>
+          </a>
         </div>
-
-        {% block header_menu %} {{ menu_macros::menu(config=config,
-        current_path=current_path) }} {% endblock header_menu %}
-      </header>
-      {% endblock header %}
-
-      <div class="content">
-        {% block content %}
-        <div class="post">
-          <div class="home-title">
-            <img src="/img/hi.webp" alt="Hi" width="40" height="40" />
-            <h1>Hi, I'm&nbsp;<mark>Dan</mark></h1>
-          </div>
-          <div class="center-text">❦</div>
-          <p>I'm currently working as a DevOps team lead in Dublin, Ireland.</p>
-          <p>Some of my areas of interest include:</p>
-          <ul>
-            <li>CI / CD &nbsp;♾️</li>
-            <li>
-              Jenkins &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-jenkins-24.svg"
-                ,
-                alt="Jenkins"
-              />
-            </li>
-            <li>
-              Azure (+ DevOps) &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-azure-24.svg"
-                ,
-                alt="Azure"
-              />
-            </li>
-            <li>
-              Terraform &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-terraform-24.svg"
-                ,
-                alt="Terraform"
-              />
-            </li>
-            <li>
-              Shell scripting &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-shell-24.svg"
-                ,
-                alt="Shell"
-              />
-            </li>
-            <li>
-              Docker &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-docker-24.svg"
-                ,
-                alt="Docker"
-              />
-            </li>
-            <li>
-              Python &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-python-24.svg"
-                ,
-                alt="Python"
-              />
-            </li>
-            <li>Rust &nbsp;🦀</li>
-            <li>
-              Ant &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-ant-24.svg"
-                ,
-                alt="Ant"
-              />
-            </li>
-            <li>
-              Golang &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-golang-24.svg"
-                ,
-                alt="Golang"
-              />
-            </li>
-            <li>
-              Android &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-android-24.svg"
-                ,
-                alt="Android"
-              />
-            </li>
-            <li>
-              Cybersecurity &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-security-24.svg"
-                ,
-                alt="Security"
-              />
-            </li>
-            <li>
-              Automation &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-automation-24.svg"
-                ,
-                alt="Automation"
-              />
-            </li>
-            <li>
-              Linux &nbsp;<img
-                class="list-img"
-                ,
-                src="/img/icon-linux-24.svg"
-                ,
-                alt="Linux"
-              />
-            </li>
-          </ul>
-        </div>
-        {% endblock content %}
       </div>
 
-      {% block footer %}
-      <footer class="footer">
-        <div class="footer__inner">
-          {%- if config.extra.copyright_html %}
-          <div class="copyright copyright--user">
-            {{ config.extra.copyright_html | safe }}
-          </div>
-          {% else %}
-          <div class="copyright">
-            {%- if config.extra.author %}
-            <span
-              >© {{ date_macros::now_year() }} {{ config.extra.author }}</span
-            >
-            {% else %}
-            <span
-              >© {{ date_macros::now_year() }} Powered by
-              <a href="https://www.getzola.org/">Zola</a></span
-            >
-            {% endif -%}
+      {% block header_menu %} {{ menu_macros::menu(config=config,
+      current_path=current_path) }} {% endblock header_menu %}
+    </header>
+    {% endblock header %}
 
-            <span class="copyright-theme">
-              <span class="copyright-theme-sep">:: </span>
-              Theme:
-              <a href="https://github.com/pawroman/zola-theme-terminimal/"
-                >Terminimal</a
-              >
-              by pawroman
-            </span>
-          </div>
-          {% endif -%}
+    <div class="content">
+      {% block content %}
+      <div class="post">
+        <div class="home-title">
+          <img src="/img/hi.webp" alt="Hi" width="40" height="40" />
+          <h1>Hi, I'm&nbsp;<mark>Dan</mark></h1>
         </div>
-      </footer>
-      {% endblock footer %}
+        <div class="center-text">❦</div>
+        <p>I'm currently working as a DevOps team lead in Dublin, Ireland.</p>
+        <p>Some current tools and technologies that I'm tinkering with:</p>
+        <div class="interests">
+          <span class="tag">♾️ CI / CD</span>
+          <span class="tag"><img class="icon" src="/img/icon-jenkins.svg" alt="Jenkins" /> Jenkins</span>
+          <span class="tag"><img class="icon" src="/img/icon-azure-24.svg" alt="Azure" /> Azure</span>
+          <span class="tag">🦀 Rust</span>
+          <span class="tag"><img class="icon" src="/img/icon-terraform-24.svg" alt="Terraform" /> Terraform</span>
+          <span class="tag"><img class="icon" src="/img/icon-terminal.svg" alt="Shell" /> Shell scripting</span>
+          <span class="tag"><img class="icon" src="/img/icon-docker.svg" alt="Docker" /> Docker</span>
+          <span class="tag"><img class="icon" src="/img/icon-proxmox.svg" alt="Proxmox" /> Proxmox</span>
+          <span class="tag"><img class="icon" src="/img/icon-python-24.svg" alt="Python" /> Python</span>
+          <span class="tag"><img class="icon" src="/img/icon-ant-24.svg" alt="Ant" /> Ant</span>
+          <span class="tag"><img class="icon" src="/img/icon-golang-24.svg" alt="Golang" /> Golang</span>
+          <span class="tag"><img class="icon" src="/img/icon-android.svg" alt="Android" /> Android</span>
+          <span class="tag"><img class="icon" src="/img/icon-azure-devops.svg" alt="Azure DevOps" /> Azure DevOps</span>
+          <span class="tag"><img class="icon" src="/img/icon-raspberry-pi.svg" alt="Raspberry Pi" /> Raspberry Pi</span>
+          <span class="tag"><img class="icon" src="/img/icon-security-24.svg" alt="Security" /> Security</span>
+          <span class="tag"><img class="icon" src="/img/icon-automation-24.svg" alt="Automation" /> Automation</span>
+          <span class="tag"><img class="icon" src="/img/icon-linux-24.svg" alt="Linux" /> Linux</span>
+        </div>
+      </div>
+      {% endblock content %}
     </div>
-    {%- block extra_body %} {% endblock extra_body -%}
-  </body>
+
+    {% block footer %}
+    <footer class="footer">
+      <div class="footer__inner">
+        {%- if config.extra.copyright_html %}
+        <div class="copyright copyright--user">
+          {{ config.extra.copyright_html | safe }}
+        </div>
+        {% else %}
+        <div class="copyright">
+          {%- if config.extra.author %}
+          <span>© {{ date_macros::now_year() }} {{ config.extra.author }}</span>
+          {% else %}
+          <span>© {{ date_macros::now_year() }} Powered by
+            <a href="https://www.getzola.org/">Zola</a></span>
+          {% endif -%}
+
+          <span class="copyright-theme">
+            <span class="copyright-theme-sep">:: </span>
+            Theme:
+            <a href="https://github.com/pawroman/zola-theme-terminimal/">Terminimal</a>
+            by pawroman
+          </span>
+        </div>
+        {% endif -%}
+      </div>
+    </footer>
+    {% endblock footer %}
+  </div>
+  {%- block extra_body %} {% endblock extra_body -%}
+</body>
+
 </html>
