@@ -7,7 +7,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 📅 *Last updated: 14/05/2025*
 
-{{ gif(src="/img/wishlist.webp", alt="", position="center") }}
+{{ gif(src="/img/fry.webp", alt="", position="center") }}
 
 ### Books 📚
 

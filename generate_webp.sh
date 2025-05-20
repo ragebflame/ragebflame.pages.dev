@@ -19,7 +19,7 @@ for file in $TARGET_PATH; do
     echo  $FILE_PATH
 
     # Strip EXIF data from still images first, read image size
-    if [[ $file == *.jpg ]] || [[ $file == *.jpeg ]] || [[ $file == *.png ]] || [[ $file == *.tiff ]] || [[ $file == *.gif ]]; then
+    if [[ $file == *.jpg ]] || [[ $file == *.jpeg ]] || [[ $file == *.png ]] || [[ $file == *.tiff ]]; then
         IMAGE_SIZE=$(identify -format '%w' "$file")
         echo "Stripping EXIF from ${file}..."
         exiv2 rm "$file"
@@ -35,7 +35,7 @@ for file in $TARGET_PATH; do
     # Convert GIFs
     elif [[ $file == *.gif ]]; then
         echo "Converting ${file} --> webp"
-        gif2webp -q 90 "${file}" -o "${FILE_PATH}.webp" -mt -quiet
+        gif2webp -q 85 "${file}" -o "${FILE_PATH}.webp" -mt -quiet -mixed
     # Convert still images
     elif [[ $file == *.jpg ]] || [[ $file == *.jpeg ]] || [[ $file == *.png ]] || [[ $file == *.tiff ]]; then
         # Resize large images (Width greater than 800 pixels)
