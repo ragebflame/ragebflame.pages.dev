@@ -101,6 +101,23 @@ mark {
   background-color: var(--background);
   color: var(--accent);
 }
+strong {
+    position: relative;
+    font-weight: 500;
+}
+
+strong::before{
+  background-color: var(--accent-alpha-20);
+  content: "";
+  position: absolute;
+  width: calc(100% + 4px);
+  height: 100%;
+  left: -2px;
+  bottom: 0;
+  z-index: -1;
+  transform: rotate(-2deg);
+}
+
 
 img {
   display: block;

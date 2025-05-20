@@ -72,7 +72,7 @@ author = "Daniel Flannery"
 
 # Copyright text in HTML format. If specified,
 # entirely replaces default copyright and author.
-copyright_html = "- - - コンピュータープログラミング - - -<br/> 2025 | Daniel Flannery"
+copyright_html = "- - - コンピュータープログラミング - - -"
 
 # menu is enabled by adding menu_items (optional)
 menu_items = [
@@ -87,7 +87,7 @@ menu_items = [
     {name = "photographs/", url = "$BASE_URL/photographs"},
     {name = "wishlist/", url = "$BASE_URL/wishlist"},
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/ragebflame", newtab = true},
+    {name = "github↗", url = "https://github.com/ragebflame", newtab = true},
 ]
 
 # Whether to show links to earlier and later posts
