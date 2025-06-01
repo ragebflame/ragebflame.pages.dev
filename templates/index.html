@@ -102,7 +102,7 @@ title_macros -%}
         <span>{{ config.extra.copyright_html | safe }}<br /></span>
         <span>{{ date_macros::now_year() }} | {{ config.extra.author }}<br /></span>
         <div class="timestamp"><a href="https://github.com/ragebflame/ragebflame.pages.dev" target="_blank">Source
-            code</a> :: Rendered @ {{ date_macros::timestamp() }}<br /></div>
+            code</a> :: Cached @ {{ date_macros::timestamp() }}<br /></div>
       </div>
     </footer>
     {% endblock footer %}

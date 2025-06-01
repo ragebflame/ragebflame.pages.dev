@@ -1,2 +1,2 @@
 {% macro now_year() %} {{ now() | date(format="%Y") }} {% endmacro %}
-{% macro timestamp() %} {{ now() | date(format="%H:%M:%S") }} {% endmacro %}
+{% macro timestamp() %} {{ now() | date(format="%H:%M - %D") }} {% endmacro %}

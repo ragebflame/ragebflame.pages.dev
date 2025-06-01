@@ -44,7 +44,7 @@ external_links_no_referrer = true
 
 # One of: blue, green, orange, pink, red.
 # Defaults to blue.
-accent_color = "green"
+accent_color = "navy"
 
 # Language
 default_language = "en"
@@ -53,11 +53,11 @@ default_language = "en"
 images_default_size = 784
 images_sizes = [200, 392, 784]
 
-# One of: blue, dark, green, orange, pink, red.
+# One of: blue, dark, green, orange, pink, red, navy.
 # Enabling dark background will also modify primary font color
 # to be darker.
 # Defaults to accent color (or, if not accent color specified, to blue).
-background_color = "green"
+background_color = "navy"
 
 # The logo text - defaults to "Terminimal theme"
 logo_text = "~/ Daniel Flannery"
