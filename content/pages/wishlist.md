@@ -5,7 +5,7 @@ path = "wishlist"
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-📅 *Last updated: 14/05/2025*
+📅 *Last updated: 12/06/2025*
 
 {{ gif(src="/img/fry.webp", alt="", position="center") }}
 
@@ -30,6 +30,11 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - ~~✅ [ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 - ~~✅ [iFixit Pro Tech Toolkit](https://eustore.ifixit.com/products/pro-tech-toolkit)~~
 
+### Homelab gear 🧪
+
+- Router: [Vault Pro VP2430](https://eu.protectli.com/news/vp2430-launch/)
+- Rack gear: [Digitus](https://www.digitus.info/en/)
+
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
 
 - Mice
@@ -41,7 +46,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
   - [LTT Deskpad - 1000m x 400m](https://www.lttstore.com/collections/all-products/products/deskpad?variant=33074344525927)
   - [QCK Heavy - 900m x 400m](https://steelseries.com/gaming-mousepads/qck-heavy-series?size=xxl)
 
-##### Compute 💻🎮
+##### Compute 💻
 
 - GPUs
   - [Nvidia GeForce RTX 4080 Super Strix](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx4080s-o16g-gaming/)
@@ -72,7 +77,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - Earphones
   - ~~✅ [Samsung Galaxy Buds+](https://www.rtings.com/headphones/reviews/samsung/galaxy-buds-plus-truly-wireless)~~
 
-##### Instruments / Pedals / Amps 🎸🎹
+##### Instruments / Pedals / Amps 🎸
 
 - Loopers ➰
   - [tc electronic Ditto + Looper](https://www.thomann.de/ie/tc_electronic_ditto_looper.htm)
@@ -104,16 +109,15 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ### Whiskey 🥃
 
 - [Nikka From The Barrel](https://www.nikka.com/eng/brands/fromthebarrel/)
-- [Green Spot](https://www.spotwhiskey.com/en/whiskeys/greenspot)
-- [Yellow Spot](https://www.spotwhiskey.com/en/whiskeys/yellowspot)
+- Spot whiskey: [Green Spot](https://www.spotwhiskey.com/en/whiskeys/greenspot) | [Yellow Spot](https://www.spotwhiskey.com/en/whiskeys/yellowspot)
 - [Redbreast Single Pot](https://www.redbreastwhiskey.com/en-EN/)
 
 ### Beer 🍺
 
 - [Whiplash Beer](http://www.whiplashbeer.com/)
+- Pilsner Urquell
 - Samuel Adams on Draft
 - [Trouble Brewing - Sabotage](https://troublebrewing.ie/beers/sabotage/) (Tastes like Sam Adams)
-- Pilsner Urquell
 
 ### Other 🎋
 
@@ -123,7 +127,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - [MKBHD - Six Colors](https://mkbhd.com/products/6-color-t-shirt)
 - 🈲 Uniqlo
 
-#### Interesting projects 🔬🧰
+#### Interesting projects 🔬
 
 - [An updated daily front page of The New York Times as artwork on your wall](https://alexanderklopping.medium.com/an-updated-daily-front-page-of-the-new-york-times-as-artwork-on-your-wall-3b28c3261478)
 - [Pwnagotchi: Deep reinforcement learning for wifi pwning!](https://pwnagotchi.ai/)
