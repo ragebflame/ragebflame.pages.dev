@@ -3,6 +3,16 @@ title = "Photographs"
 path = "photographs"
 +++
 
+{{ figure(src="/photographs/photo_27.webp",
+          style="border-radius: 4px;",
+          position="center"
+          alt="Limone sul Garda, IT ~ 2025",
+          caption_position="center",
+          caption="Limone sul Garda, IT ~ 2025",
+          caption_style="font-weight: bold; font-style: italic; border-radius: 4px") }}
+
+<p style="text-align:center; font-size: 1.2rem; opacity: 0.5;"> ❦ </p>
+
 {{ figure(src="/photographs/photo_26.webp",
           style="border-radius: 4px;",
           position="center"
