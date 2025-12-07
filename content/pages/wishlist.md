@@ -5,7 +5,7 @@ path = "wishlist"
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-📅 *Last updated: 12/06/2025*
+📅 *Last updated: 07/12/2025*
 
 {{ gif(src="/img/fry.webp", alt="", position="center") }}
 
@@ -32,6 +32,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ### Homelab gear 🧪
 
+- Networking: [Ubiquiti](https://eu.store.ui.com/eu/en)
 - Router: [Vault Pro VP2430](https://eu.protectli.com/news/vp2430-launch/)
 - Rack gear: [Digitus](https://www.digitus.info/en/)
 
