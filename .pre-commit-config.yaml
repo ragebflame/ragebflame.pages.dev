@@ -1,30 +1,25 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
-  - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+  - repo: builtin
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
+      - id: mixed-line-ending
       - id: check-toml
       - id: check-added-large-files
         args: [--maxkb=800]
   # Run Biome
   - repo: https://github.com/biomejs/pre-commit
-    rev: v2.0.0-beta.3 # Use the sha / tag you want to point at
+    rev: v2.3.13 # Use the sha / tag you want to point at
     hooks:
       - id: biome-check
-  # Run Prettier - Deprecated
-  # - repo: https://github.com/pre-commit/mirrors-prettier
-  #   rev: v2.7.1
-  #   hooks:
-  #     - id: prettier
   # Run Zola check to validate external links (https://www.getzola.org/documentation/getting-started/cli-usage/#check)
-  # Disabling for now
-  #- repo: local
-  #  hooks:
-  #    - id: zola-check
-  #      name: Zola - Validate external markdown links
-  #      entry: bash -c 'zola check || :' # force exit code 0 (warn on broken links)
-  #      language: system
-  #      verbose: true
+  # Disabling due to false positives
+  # - repo: local
+  #   hooks:
+  #     - id: zola-check
+  #       name: Zola - Validate external markdown links
+  #       entry: bash -c 'zola check || :' # force exit code 0 (warn on broken links)
+  #       language: system
+  #       verbose: true
