@@ -5,9 +5,9 @@ path = "wishlist"
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-📅 *Last updated: 07/12/2025*
+📅 *Last updated: 10/10/2026*
 
-{{ gif(src="/img/fry.webp", alt="", position="center") }}
+{{ gif(src="/img/pages/fry.webp", alt="", position="center") }}
 
 ### Books 📚
 
@@ -49,8 +49,6 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ##### Compute 💻
 
-- GPUs
-  - [Nvidia GeForce RTX 4080 Super Strix](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx4080s-o16g-gaming/)
 - 1440p Monitors
   - [LG UltraGear 27GL850-B](https://www.lg.com/us/monitors/lg-27gl850-b-gaming-monitor)
 
